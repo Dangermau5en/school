@@ -1,27 +1,33 @@
 {
   "collection": "Library Collection",
-  "items": [
-    {
-      "product_id": "12345",
-      "name": "Bookywook About Books",
-      "price": 10.00,
-      "description": "A book you can read with your eyes. That's what you read with when you read books. Your eyes."
-    },
-    {
-      "latitude": 40.7128,
-      "longitude": -74.0060,
-      "city": "Libraryville",
-      "country": "USA"
-    },
-    {
-      "username": "BookyMcBookface",
-      "email": "BookyMcBookface@example.com",
-      "age": 25
-    },
-    {
-      "username": "Usermans",
-      "email": "Usermans@example.com",
-      "age": 35
-    }
-  ]
+  "items": {
+    "books": [
+      {
+        "product_id": "12345",
+        "name": "Bookywook About Books",
+        "price": 10.00,
+        "description": "A book you can read with your eyes. That's what you read with when you read books. Your eyes."
+      }
+    ],
+    "locations": [
+      {
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "city": "Libraryville",
+        "country": "USA"
+      }
+    ],
+    "users": [
+      {
+        "username": "BookyMcBookface",
+        "email": "BookyMcBookface@example.com",
+        "age": 25
+      },
+      {
+        "username": "Usermans",
+        "email": "Usermans@example.com",
+        "age": 35
+      }
+    ]
+  }
 }
