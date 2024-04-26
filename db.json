@@ -1,1 +1,17 @@
-
+{
+  "username": "example_user",
+  "email": "user@example.com",
+  "age": 30
+}
+{
+  "product_id": "12345",
+  "name": "Smartphone",
+  "price": 599.99,
+  "description": "A high-end smartphone with advanced features."
+}
+{
+  "latitude": 40.7128,
+  "longitude": -74.0060,
+  "city": "New York",
+  "country": "USA"
+}
