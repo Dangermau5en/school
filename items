@@ -3,21 +3,21 @@
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "id": "1",
-    "name": "Bookwook 1: The Reading Begins",
-    "description": "The saga begins!"
+    "name": "Soccer ball",
+    "description": "Item for football playing"
   },
   {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "id": "2",
-    "name": "Bookywook 2: The Search for More Words",
-    "description": "The libbrarian strikes back!"
+    "name": "Skateboard",
+    "description": "Item for creative playing"
   },
   {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "id": "3",
-    "name": "Bookywook 3: The Bookening",
-    "description": "Did this really need to be a trilogy?"
+    "name": "Laptop",
+    "description": "Item for innovating and building"
   }
 ]
