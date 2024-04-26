@@ -5,13 +5,13 @@
 }
 {
   "product_id": "12345",
-  "name": "Smartphone",
-  "price": 599.99,
-  "description": "A high-end smartphone with advanced features."
+  "name": "Bookywook",
+  "price": 10.00,
+  "description": "A book you can read with your eyes. That's what you read with when you read books."
 }
 {
   "latitude": 40.7128,
   "longitude": -74.0060,
-  "city": "New York",
+  "city": "Libraryville",
   "country": "USA"
 }
