@@ -1,33 +1,26 @@
 {
-  "collection": "Library Collection",
-  "items": {
-    "books": [
-      {
+  "items": [
+    {
         "product_id": "12345",
         "name": "Bookywook About Books",
         "price": 10.00,
         "description": "A book you can read with your eyes. That's what you read with when you read books. Your eyes."
-      }
-    ],
-    "locations": [
-      {
-        "latitude": 40.7128,
-        "longitude": -74.0060,
-        "city": "Libraryville",
-        "country": "USA"
-      }
-    ],
-    "users": [
-      {
+    },
+  ],
+  "users": [
+    {
         "username": "BookyMcBookface",
         "email": "BookyMcBookface@example.com",
         "age": 25
-      },
-      {
-        "username": "Usermans",
-        "email": "Usermans@example.com",
-        "age": 35
-      }
-    ]
+    },
+    {
+  ],
+  "collection": {
+    "@context": "https://schema.org/",
+    "@type": "Library Collection",
+    "name": "CKerridge's API",
+    "creator": "CKerridge",
+    "about": "A collection of books N Stuff",
+    "url": "https://www.LibraryCollection.org"
   }
 }
