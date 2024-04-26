@@ -3,21 +3,21 @@
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "id": "1",
-    "name": "Soccer ball",
-    "description": "Item for football playing"
+    "name": "Book 1: The Bookening Begins",
+    "description": "Book 1 of the epic saga!"
   },
   {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "id": "2",
-    "name": "Skateboard",
-    "description": "Item for creative playing"
+    "name": "Book 2: The Search for More Words",
+    "description": "It needed a sequel?!"
   },
   {
     "@context": "https://schema.org",
     "@type": "CreativeWork",
     "id": "3",
-    "name": "Laptop",
-    "description": "Item for innovating and building"
+    "name": "Book 3: The Bookening Complete",
+    "description": "It's a trilogy. Huh."
   }
 ]
