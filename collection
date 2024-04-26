@@ -1,0 +1,8 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Library Collection",
+  "name": "CKerridge's API",
+  "creator": "CKerridge",
+  "about": "A collection of books and stuff",
+  "url": "https://www.LibraryCollection.org"
+}
