@@ -15,3 +15,13 @@
   "city": "Libraryville",
   "country": "USA"
 }
+{
+  "username": "UseyMcUserface",
+  "email": "UseyMcUserface1@example.com",
+  "age": 25
+},
+{
+  "username": "BookyMcBookface",
+  "email": "BookyMcBookface@example.com",
+  "age": 35
+}
