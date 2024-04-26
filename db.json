@@ -25,18 +25,18 @@
   "users": [
     {
       "@context": "https://schema.org",
-      "@type": "Person McPersonface",
+      "@type": "random user",
       "id": "1",
       "name": "user 1",
-      "description": "some user",
+      "description": "Person McPersonface",
       "itemId": "1"
     },
     {
       "@context": "https://schema.org",
-      "@type": "BookyMcBookface",
+      "@type": "random user",
       "id": "2",
       "name": "user 2",
-      "description": "another user",
+      "description": "Book McBookface",
       "itemId": "1"
     }
   ],
