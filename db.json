@@ -1,27 +1,27 @@
 {
-  "username": "example_user",
-  "email": "user@example.com",
-  "age": 30
-}
-{
-  "product_id": "12345",
-  "name": "Bookywook",
-  "price": 10.00,
-  "description": "A book you can read with your eyes. That's what you read with when you read books."
-}
-{
-  "latitude": 40.7128,
-  "longitude": -74.0060,
-  "city": "Libraryville",
-  "country": "USA"
-}
-{
-  "username": "UseyMcUserface",
-  "email": "UseyMcUserface1@example.com",
-  "age": 25
-},
-{
-  "username": "BookyMcBookface",
-  "email": "BookyMcBookface@example.com",
-  "age": 35
+  "collection": "Library Collection",
+  "items": [
+    {
+      "product_id": "12345",
+      "name": "Bookywook About Books",
+      "price": 10.00,
+      "description": "A book you can read with your eyes. That's what you read with when you read books. Your eyes."
+    },
+    {
+      "latitude": 40.7128,
+      "longitude": -74.0060,
+      "city": "Libraryville",
+      "country": "USA"
+    },
+    {
+      "username": "BookyMcBookface",
+      "email": "BookyMcBookface@example.com",
+      "age": 25
+    },
+    {
+      "username": "Usermans",
+      "email": "Usermans@example.com",
+      "age": 35
+    }
+  ]
 }
