@@ -1,23 +1,22 @@
 {
   "items": [
     {
-        "product_id": "12345",
-        "name": "Bookywook About Books",
-        "price": 10.00,
-        "description": "A book you can read with your eyes. That's what you read with when you read books. Your eyes."
-    },
+      "product_id": "12345",
+      "name": "Bookywook About Books",
+      "price": 10.00,
+      "description": "A book you can read with your eyes. That's what you read with when you read books. Your eyes."
+    }
   ],
   "users": [
     {
-        "username": "BookyMcBookface",
-        "email": "BookyMcBookface@example.com",
-        "age": 25
-    },
-    {
+      "username": "BookyMcBookface",
+      "email": "BookyMcBookface@example.com",
+      "age": 25
+    }
   ],
   "collection": {
     "@context": "https://schema.org/",
-    "@type": "Library Collection",
+    "@type": "LibraryCollection",
     "name": "CKerridge's API",
     "creator": "CKerridge",
     "about": "A collection of books N Stuff",
