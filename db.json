@@ -25,27 +25,27 @@
   "users": [
     {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "Person McPersonface",
       "id": "1",
       "name": "user 1",
-      "description": "some user comment about item",
+      "description": "some user",
       "itemId": "1"
     },
     {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "BookyMcBookface",
       "id": "2",
       "name": "user 2",
-      "description": "some user comment about item",
+      "description": "another user",
       "itemId": "1"
     }
   ],
   "collection": {
     "@context": "https://schema.org/",
-    "@type": "Collection",
-    "name": "jasonclark's API",
-    "creator": "jasonclark",
-    "about": "A collection of items or things or stuff",
-    "url": "https://www.jasonclark.info"
+    "@type": "Library Collection",
+    "name": "CKerridge's API",
+    "creator": "CKerridge",
+    "about": "A collection of books N stuff",
+    "url": "https://www.CKerridge.info"
   }
 }
