@@ -1,18 +1,18 @@
 [
   {
     "@context": "https://schema.org",
-    "@type": "Person",
+    "@type": "Person McPersonface",
     "id": "1",
     "name": "user 1",
-    "description": "some user comment about item",
+    "description": "some user",
     "itemId": "1"
   },
   {
     "@context": "https://schema.org",
-    "@type": "Person",
+    "@type": "BookyMcBookface",
     "id": "2",
     "name": "user 2",
-    "description": "some user comment about item",
+    "description": "another user",
     "itemId": "1"
   }
 ]
