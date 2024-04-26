@@ -1,1 +1,10 @@
-
+{
+  "username": "BookyMcBookface",
+  "email": "BookyMcBookface@example.com",
+  "age": 25
+},
+{
+  "username": "Usermans",
+  "email": "Usermans@example.com",
+  "age": 35
+}
